@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+{%load static%}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{%static 'css/view.css'%}">
+</head>
+
+<body>
+<div class="text">
+<h1>Book: &nbsp;{{book.book_name}}</h1>
+<ul>
+    <h3>Author: &nbsp;{{book.author}}</h3>
+    <h3>Pages: &nbsp; {{book.pages}}</h3>
+    <h3>Price: &nbsp;{{book.price}}</h3>
+
+</ul>
+  </div>
+</body>
+</html>

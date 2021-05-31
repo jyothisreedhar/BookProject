@@ -1,0 +1,30 @@
+.mainbody{
+background-color: #92a8d1;
+}
+h1{
+  margin-right: 150px;
+  margin-left: 80px;
+  padding-top:30px;
+  color:#cc3333;
+}
+.box{
+margin-left:2px;
+padding-top:10px;
+
+width:350px;
+}
+.create{
+margin-left:80px;
+width:330px;
+}
+.author{
+width:380px;
+height:40px;
+}
+.price{
+width:390px;
+height:40px;
+}
+.pages{
+width:380px;
+height:40px;}
